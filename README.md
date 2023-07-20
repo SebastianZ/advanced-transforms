@@ -2,7 +2,7 @@
 
 ## Current state
 
-Currently, CSS only supports affine transformations like translation, rotation, etc.
+Currently, CSS only supports affine transformations like translation, rotation, etc. as well as perspective transformations.
 Those are all transformations that can be expressed by a 3x3 matrix.
 
 Transformations beyond that are not possible with CSS, at the moment.
